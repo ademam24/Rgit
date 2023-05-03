@@ -9,3 +9,7 @@ Fourth Line tO Divergent
 Fith line in testing branch 
 
 try conflict merging on test 
+<<<<<<< HEAD
+=======
+ try conflict merging  on mybranch
+>>>>>>> mybranch
