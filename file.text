@@ -10,12 +10,7 @@ Fith line in testing branch
 
 try conflict merging on test 
  try conflict merging  on mybranch
-<<<<<<< HEAD
- 
-
- Trying bra1
-=======
 
 
 try to change bra2
->>>>>>> bra2
+talk to branch3
